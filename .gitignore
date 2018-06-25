@@ -9,7 +9,7 @@ package-lock.json
 
 build
 
-/packages/*/cjs
+#/packages/*/cjs
 
 *.lerna_backup
 
